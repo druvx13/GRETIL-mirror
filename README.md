@@ -4,7 +4,7 @@ DOI: [10.5281/zenodo.6486741](https://doi.org/10.5281/zenodo.6486741)
 
 A snapshot of [GRETIL](http://gretil.sub.uni-goettingen.de/), the Göttingen Register of Electronic Texts in Indian Languages and related Indological materials from Central and Southeast Asia.
 
-A newly-developed search interface for GRETIL, provided by Claudius Teodorescu, is available at: [https://claudius-teodorescu.gitlab.io/gretil-corpus-site/](https://claudius-teodorescu.gitlab.io/gretil-corpus-site/url).  For more detail, see the "Update, July 2025" section below. 
+A newly-developed search interface for GRETIL, provided by Claudius Teodorescu, is available at: [https://claudius-teodorescu.gitlab.io/gretil-corpus-site/](https://claudius-teodorescu.gitlab.io/gretil-corpus-site).  For more detail, see the "Update, July 2025" section below. 
 
 This snapshot has been placed here in Github for stability, traceability and archival security.
 
