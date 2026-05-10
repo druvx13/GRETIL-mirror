@@ -2,9 +2,12 @@
     font-family: LinuxBiolinumORegular;
     src: url(fonts/LinBiolinum_R.woff);
 }
-* {box-sizing: border-box;}
-body {background-color: #f1f1f1; font-family: LinuxBiolinumORegular, Arial, Helvetica, sans-serif;}
-ul {list-style: square;}
+* { box-sizing: border-box; }
+body {
+    background-color: #f1f1f1;
+    font-family: LinuxBiolinumORegular, Arial, Helvetica, sans-serif;
+}
+ul { list-style: square; }
 .org-ul { padding-left: 4em; margin-bottom: 10pt; }
 .org-ol { padding-left: 4em; list-style-type: none; }
 h1     { font-weight: bold; font-size: 24px; }
