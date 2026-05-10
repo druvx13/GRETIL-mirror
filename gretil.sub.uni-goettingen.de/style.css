@@ -1,8 +1,6 @@
 @font-face {
     font-family: LinuxBiolinumORegular, sans-serif;
     src: url(fonts/LinBiolinum_R.woff);
-    src: url(fonts/LinBiolinum_RB.woff);
-    src: url(fonts/LinBiolinum_RI.woff);
 }
 * {box-sizing: border-box;}
 body {background-color: #f1f1f1; font-family: LinuxBiolinumORegular, Arial, Helvetica, sans-serif;}
@@ -90,7 +88,7 @@ a:active { color: #003967; }
 
 .main {
     margin-left: 250px;
-    font-size: 90%; 
+    font-size: 90%;
     padding-top: 0px;
     padding-right: 50px;
     padding-bottom: 40px;
