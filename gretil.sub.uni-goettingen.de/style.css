@@ -1,5 +1,5 @@
 @font-face {
-    font-family: LinuxBiolinumORegular, sans-serif;
+    font-family: LinuxBiolinumORegular;
     src: url(fonts/LinBiolinum_R.woff);
 }
 * {box-sizing: border-box;}
