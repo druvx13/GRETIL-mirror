@@ -1,10 +1,10 @@
 document.addEventListener("DOMContentLoaded", function () {
-  var dropdowns = document.getElementsByClassName("dropdown-btn");
+  const dropdowns = document.getElementsByClassName("dropdown-btn");
 
-  for (var i = 0; i < dropdowns.length; i++) {
-    dropdowns[i].addEventListener("click", function () {
+  for (const dropdown of dropdowns) {
+    dropdown.addEventListener("click", function () {
       this.classList.toggle("active");
-      var dropdownContent = this.nextElementSibling;
+      const dropdownContent = this.nextElementSibling;
 
       if (!dropdownContent || !dropdownContent.classList.contains("dropdown-container")) {
         return;
