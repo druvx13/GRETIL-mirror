@@ -17,7 +17,7 @@ The bash script used to gather the files for this Github archive is:
 ```bash
 #!/bin/bash -x
 # re-fetch all the Unicode files
-wget -np -r  ‐‐continue ‐‐timestamping -l7 -A "*xml","*htm","*xdxf" http://gretil.sub.uni-goettingen.de/
+wget -np -r --continue --timestamping -l7 -A "*xml","*htm","*xdxf","*txt" http://gretil.sub.uni-goettingen.de/
 ```
 ## Update, July 2025
 Recently, the University of Goettingen created an archive of the GRETIL repository that is expected to be available into the foreseeable future.
